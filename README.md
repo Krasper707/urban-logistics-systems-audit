@@ -11,6 +11,9 @@ This repository contains a technical report performing a first-principles audit 
 * **Throughput Multiplier:** 15x increase in retrieval speed compared to staircase-based human conveyors.
 * **Mechanical Inductive Bias:** Leveraged physics (gravity) to create a zero-energy, self-healing transport layer.
 
+
+<img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/2fb881ab-618e-4175-b297-873fcc18bde7" />
+
 ## Technical Concepts Explored
 * **Vertical Decoupling:** Separating State (Inventory) from Processing (Sales).
 * **Digital P2P Signaling:** Transitioning from analog broadcast (shouting) to digital protocols (WhatsApp).
